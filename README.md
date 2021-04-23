@@ -1,6 +1,6 @@
 ## Hello, I'm Kelvin 👋
 
-- <img height="25" src="https://www.ufpb.br/acessoainformacao/contents/imagens/logo2_ufpb.png/@@images/image.png"> Computer Science undergraduate student at UFPB
+- <img height="25" src="https://www.ufpb.br/acessoainformacao/contents/imagens/logo2_ufpb.png/@@images/image.png"> Computer science undergraduate student
 
 ### I am currently focused on learning things related to AI, such as:
 - 📈Machine Learning
