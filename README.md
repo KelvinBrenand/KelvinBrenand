@@ -26,7 +26,7 @@
 <img align="left" alt="Shell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /><br/>
 
 ### How to reach me:
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/in/kelvin-brenand-84b813211/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/)](https://www.linkedin.com/in/kelvin-brenand/) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:brenand.kelvin@gmail.com)](mailto:brenand.kelvin@gmail.com)
 
 ![Kelvin's github stats](https://github-readme-stats.vercel.app/api?username=KelvinBrenand&count_private=true&show_icons=true&theme=tokyonight)
