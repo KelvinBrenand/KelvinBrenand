@@ -2,13 +2,6 @@
 
 - <img height="26" src="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/122011/logo_ufpb_novo.png?itok=2DIe6GYi"> Computer science undergraduate student
 
-### I am currently focused on learning things related to AI, such as:
-- 📈Machine Learning
-- ⛓Deep Learning
-- 📃Natural language processing
-- 👁️Computer Vision
-- <img height="20" src="https://www.tensorflow.org/images/tf_logo_32px.png"> TensorFlow 2.0
-
 ### Languages and Tools:
 <img align="left" alt="Python" width="26px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/psf/trademarks-faq/python-logo.png"/>
 <img align="left" alt="C" width="30px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"/>
