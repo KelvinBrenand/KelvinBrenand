@@ -1,7 +1,6 @@
 ## Hello, I'm Kelvin 👋
 
 - <img height="40" src="https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/4ec62560-920c-40ad-98b9-77e662f6eb10.png"> Computer science undergraduate student
-- <img height="40" src="https://www.ufpb.br/ufpb/image-base/brasaooficial.png/@@images/4ec62560-920c-40ad-98b9-77e662f6eb10.png"> Machine learning researcher
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -18,9 +17,6 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
 
 </p>
-
-<h3 align="left">Currently focused on learning the Spring Framework </h3>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 
 
 ### How to reach me:
