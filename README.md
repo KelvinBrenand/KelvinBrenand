@@ -33,7 +33,7 @@
 
 <div align="center">
   <a href="https://github.com/KelvinBrenand">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KelvinBrenand&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <!--- <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KelvinBrenand&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/> -->
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KelvinBrenand&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 </div>
   
